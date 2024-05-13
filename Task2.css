@@ -1,0 +1,27 @@
+.basic{
+    background-color: rgb(114, 181, 181);
+    padding: 30px;
+    width: 480px;
+}
+.users-list{
+    background-color : rgba(236, 202, 117, 0.845);
+    border-radius: 30px;
+   
+}
+.section{
+    display: flex;
+}
+hr{
+    width: 370px;
+    height: 1px;
+    background-color: white;
+    color: white;
+    border-color: white;
+}
+
+.users-list .section img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    padding: 25px;
+}
