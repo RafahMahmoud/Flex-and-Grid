@@ -1,11 +1,12 @@
 .basic{
-    background-color: rgb(114, 181, 181);
+    background-color: rgba(114, 181, 181);
     padding: 30px;
     width: 480px;
 }
 .users-list{
     background-color : rgba(236, 202, 117, 0.845);
     border-radius: 30px;
+    box-shadow: 15px 15px 5px rgba(64, 87, 87, 0.389);
    
 }
 .section{
